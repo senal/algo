@@ -1,0 +1,17 @@
+C:\workspace\projects\rnd\algo\UnitTest\obj\Debug\netcoreapp2.1\UnitTest.csprojAssemblyReference.cache
+C:\workspace\projects\rnd\algo\UnitTest\obj\Debug\netcoreapp2.1\UnitTest.csproj.CoreCompileInputs.cache
+C:\workspace\projects\rnd\algo\UnitTest\obj\Debug\netcoreapp2.1\UnitTest.AssemblyInfoInputs.cache
+C:\workspace\projects\rnd\algo\UnitTest\obj\Debug\netcoreapp2.1\UnitTest.AssemblyInfo.cs
+C:\workspace\projects\rnd\algo\UnitTest\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\workspace\projects\rnd\algo\UnitTest\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\workspace\projects\rnd\algo\UnitTest\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\workspace\projects\rnd\algo\UnitTest\bin\Debug\netcoreapp2.1\UnitTest.deps.json
+C:\workspace\projects\rnd\algo\UnitTest\bin\Debug\netcoreapp2.1\UnitTest.runtimeconfig.json
+C:\workspace\projects\rnd\algo\UnitTest\bin\Debug\netcoreapp2.1\UnitTest.runtimeconfig.dev.json
+C:\workspace\projects\rnd\algo\UnitTest\bin\Debug\netcoreapp2.1\UnitTest.dll
+C:\workspace\projects\rnd\algo\UnitTest\bin\Debug\netcoreapp2.1\UnitTest.pdb
+C:\workspace\projects\rnd\algo\UnitTest\obj\Debug\netcoreapp2.1\UnitTest.dll
+C:\workspace\projects\rnd\algo\UnitTest\obj\Debug\netcoreapp2.1\UnitTest.pdb
+C:\workspace\projects\rnd\algo\UnitTest\bin\Debug\netcoreapp2.1\BinarySearchTree.dll
+C:\workspace\projects\rnd\algo\UnitTest\bin\Debug\netcoreapp2.1\BinarySearchTree.pdb
+C:\workspace\projects\rnd\algo\UnitTest\obj\Debug\netcoreapp2.1\UnitTest.csproj.CopyComplete

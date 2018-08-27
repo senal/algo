@@ -1,0 +1,11 @@
+C:\workspace\projects\rnd\algo\CrazyProduct\bin\Debug\netcoreapp2.1\CrazyProduct.deps.json
+C:\workspace\projects\rnd\algo\CrazyProduct\bin\Debug\netcoreapp2.1\CrazyProduct.runtimeconfig.json
+C:\workspace\projects\rnd\algo\CrazyProduct\bin\Debug\netcoreapp2.1\CrazyProduct.runtimeconfig.dev.json
+C:\workspace\projects\rnd\algo\CrazyProduct\bin\Debug\netcoreapp2.1\CrazyProduct.dll
+C:\workspace\projects\rnd\algo\CrazyProduct\bin\Debug\netcoreapp2.1\CrazyProduct.pdb
+C:\workspace\projects\rnd\algo\CrazyProduct\obj\Debug\netcoreapp2.1\CrazyProduct.csprojAssemblyReference.cache
+C:\workspace\projects\rnd\algo\CrazyProduct\obj\Debug\netcoreapp2.1\CrazyProduct.csproj.CoreCompileInputs.cache
+C:\workspace\projects\rnd\algo\CrazyProduct\obj\Debug\netcoreapp2.1\CrazyProduct.AssemblyInfoInputs.cache
+C:\workspace\projects\rnd\algo\CrazyProduct\obj\Debug\netcoreapp2.1\CrazyProduct.AssemblyInfo.cs
+C:\workspace\projects\rnd\algo\CrazyProduct\obj\Debug\netcoreapp2.1\CrazyProduct.dll
+C:\workspace\projects\rnd\algo\CrazyProduct\obj\Debug\netcoreapp2.1\CrazyProduct.pdb
