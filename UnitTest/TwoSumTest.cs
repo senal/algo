@@ -13,5 +13,12 @@ namespace UnitTest
             sum.ShouldBe(4);
         }
 
+        [Fact]
+        public void PrintDecimal(){
+            decimal s = 3/6;
+
+            s.ShouldBeSameAs(0.300000);
+        }
+
     }
 }
